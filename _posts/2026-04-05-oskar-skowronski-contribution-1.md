@@ -45,7 +45,7 @@ I ended up taking photos of all of the automated door buttons I could find aroun
 
 Immediately there were issues with contribution, as the free storage on the forms they were using to submit elevators was cut off, and contributions to button accessibility were also limited.
 
-![Picture of Discord chat about why the elevator submissions weren't working](./OS_imgs/elevator-broken.png)
+![Picture of Discord chat about why the elevator submissions weren't working](../assets/OS_imgs/elevator-broken.png)
 ![Discord chat about how the google drive compresses button photos too poorly to use](../assets/OS_imgs/Buttons-Google.png)
 
 Eventually, I was told to just dump all of pictures into a zip file and post it to discord, but without nitro I can't submit files that large, so I ended up putting all of the photos I took into a google drive and posting that as a link to the server.
